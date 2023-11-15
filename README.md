@@ -1,7 +1,11 @@
 ### Hi there👋, my name is Noor! 
-![image](https://github.com/nuuradeen/nuuradeen/assets/97367734/5e466666-171d-4388-88cd-84de6659e7d2)
+
+![image](https://github.com/nuuradeen/nuuradeen/assets/97367734/e7b02a8b-6cbf-44a8-9957-7d3778c790b4)
+<br></br>
 
 I have a background in information technology and healthcare. I transitioned into software through NuCamp's Front End Web + Mobile Developer bootcamp.
+
+### Here are the languages and tools I use! 
 
 
 
