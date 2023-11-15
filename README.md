@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there👋, my name is Noor! 
+![image](https://github.com/nuuradeen/nuuradeen/assets/97367734/5e466666-171d-4388-88cd-84de6659e7d2)
+
+I have a background in information technology and healthcare. I transitioned into software through NuCamp's Front End Web + Mobile Developer bootcamp.
+
+
 
 <!--
 **nuuradeen/nuuradeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
